@@ -1,0 +1,3424 @@
+{
+    "code": 200,
+    "message": "success",
+    "duration": 838,
+    "result": {
+        "angle": 0,
+        "height": 1577,
+        "tables": [
+            {
+                "height_of_rows": [],
+                "type": "plain",
+                "table_cells": [],
+                "table_rows": 0,
+                "width_of_cols": [],
+                "position": [
+                    0,
+                    0,
+                    2292,
+                    0,
+                    2292,
+                    411,
+                    0,
+                    396
+                ],
+                "lines": [
+                    {
+                        "angle": 0,
+                        "text": "甲功2+甲功3+甲状腺球蛋白(内分泌)",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1505,
+                            79,
+                            2135,
+                            79,
+                            2134,
+                            126,
+                            1505,
+                            126
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "2043691285",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            148,
+                            130,
+                            325,
+                            132,
+                            325,
+                            173,
+                            148,
+                            168
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "北京協和醫院",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            835,
+                            119,
+                            1416,
+                            119,
+                            1415,
+                            222,
+                            836,
+                            222
+                        ],
+                        "score": 0.997,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "病案号:",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1702,
+                            144,
+                            1863,
+                            145,
+                            1864,
+                            197,
+                            1702,
+                            197
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "C763266",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1915,
+                            141,
+                            2125,
+                            141,
+                            2125,
+                            195,
+                            1916,
+                            195
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "基本外",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            119,
+                            178,
+                            240,
+                            184,
+                            235,
+                            231,
+                            114,
+                            224
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "姓名",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            158,
+                            241,
+                            238,
+                            240,
+                            239,
+                            286,
+                            157,
+                            285
+                        ],
+                        "score": 0.998,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "年龄:62",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            651,
+                            244,
+                            806,
+                            245,
+                            806,
+                            287,
+                            650,
+                            287
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "岁",
+                        "direction": 0,
+                        "handwritten": 0,
+                        "position": [
+                            840,
+                            244,
+                            880,
+                            244,
+                            881,
+                            290,
+                            840,
+                            290
+                        ],
+                        "score": 0.998,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "性别:女",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1228,
+                            245,
+                            1391,
+                            249,
+                            1389,
+                            295,
+                            1227,
+                            291
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "ID号:",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1694,
+                            247,
+                            1795,
+                            248,
+                            1794,
+                            291,
+                            1694,
+                            291
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "28734800",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1884,
+                            242,
+                            2056,
+                            248,
+                            2054,
+                            289,
+                            1882,
+                            285
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "科别:基",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            157,
+                            299,
+                            361,
+                            303,
+                            361,
+                            346,
+                            156,
+                            344
+                        ],
+                        "score": 0.858,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "门诊",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            397,
+                            303,
+                            497,
+                            303,
+                            497,
+                            345,
+                            398,
+                            345
+                        ],
+                        "score": 0.998,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "诊断:甲状腺结节",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            650,
+                            304,
+                            942,
+                            306,
+                            942,
+                            352,
+                            650,
+                            347
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "样本:血",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1230,
+                            308,
+                            1395,
+                            307,
+                            1395,
+                            352,
+                            1231,
+                            352
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "样本号:",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1653,
+                            308,
+                            1794,
+                            307,
+                            1794,
+                            355,
+                            1654,
+                            355
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "20220208HBA290",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1807,
+                            304,
+                            2099,
+                            306,
+                            2098,
+                            348,
+                            1808,
+                            344
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    }
+                ],
+                "table_cols": 0
+            },
+            {
+                "height_of_rows": [
+                    53,
+                    50,
+                    46,
+                    46,
+                    46,
+                    46,
+                    46,
+                    46,
+                    46
+                ],
+                "type": "table_without_line",
+                "table_cells": [
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            176,
+                            399,
+                            334,
+                            400,
+                            333,
+                            446,
+                            175,
+                            445
+                        ],
+                        "end_col": 0,
+                        "start_row": 0,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "英文名称",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    182,
+                                    404,
+                                    336,
+                                    404,
+                                    336,
+                                    448,
+                                    182,
+                                    448
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "英文名称"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            415,
+                            402,
+                            573,
+                            403,
+                            573,
+                            445,
+                            415,
+                            444
+                        ],
+                        "end_col": 1,
+                        "start_row": 0,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "检验项目",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    423,
+                                    407,
+                                    577,
+                                    406,
+                                    577,
+                                    450,
+                                    424,
+                                    450
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "检验项目"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            851,
+                            404,
+                            1011,
+                            405,
+                            1011,
+                            455,
+                            851,
+                            454
+                        ],
+                        "end_col": 2,
+                        "start_row": 0,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "测定结果",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    856,
+                                    411,
+                                    1015,
+                                    411,
+                                    1015,
+                                    455,
+                                    857,
+                                    455
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "测定结果"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1134,
+                            406,
+                            1216,
+                            407,
+                            1216,
+                            456,
+                            1133,
+                            456
+                        ],
+                        "end_col": 3,
+                        "start_row": 0,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "单位",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1143,
+                                    415,
+                                    1223,
+                                    416,
+                                    1224,
+                                    459,
+                                    1142,
+                                    460
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "单位"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1358,
+                            408,
+                            1522,
+                            409,
+                            1522,
+                            458,
+                            1358,
+                            457
+                        ],
+                        "end_col": 4,
+                        "start_row": 0,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "参考范围",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1367,
+                                    418,
+                                    1526,
+                                    418,
+                                    1526,
+                                    462,
+                                    1366,
+                                    463
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "参考范围"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1837,
+                            411,
+                            2100,
+                            413,
+                            2100,
+                            462,
+                            1836,
+                            461
+                        ],
+                        "end_col": 5,
+                        "start_row": 0,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "检测方法\\仪器",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1839,
+                                    420,
+                                    2103,
+                                    419,
+                                    2104,
+                                    466,
+                                    1839,
+                                    467
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "检测方法\\仪器"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            102,
+                            456,
+                            201,
+                            456,
+                            201,
+                            494,
+                            101,
+                            494
+                        ],
+                        "end_col": 0,
+                        "start_row": 1,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1 FT3",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    105,
+                                    459,
+                                    207,
+                                    463,
+                                    207,
+                                    501,
+                                    104,
+                                    499
+                                ],
+                                "score": 0.992,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1 FT3"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            382,
+                            457,
+                            764,
+                            460,
+                            764,
+                            506,
+                            381,
+                            503
+                        ],
+                        "end_col": 1,
+                        "start_row": 1,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "游离三碘甲状腺原氨酸",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    383,
+                                    460,
+                                    769,
+                                    464,
+                                    769,
+                                    511,
+                                    384,
+                                    506
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "游离三碘甲状腺原氨酸"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            836,
+                            463,
+                            919,
+                            463,
+                            919,
+                            504,
+                            836,
+                            504
+                        ],
+                        "end_col": 2,
+                        "start_row": 1,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "3.26",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    840,
+                                    468,
+                                    926,
+                                    469,
+                                    925,
+                                    509,
+                                    840,
+                                    509
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "3.26"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1126,
+                            465,
+                            1225,
+                            465,
+                            1225,
+                            514,
+                            1125,
+                            513
+                        ],
+                        "end_col": 3,
+                        "start_row": 1,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "pg\/ml",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1126,
+                                    474,
+                                    1230,
+                                    471,
+                                    1231,
+                                    513,
+                                    1128,
+                                    516
+                                ],
+                                "score": 0.97,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "pg\/ml"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1332,
+                            466,
+                            1522,
+                            467,
+                            1522,
+                            508,
+                            1332,
+                            507
+                        ],
+                        "end_col": 4,
+                        "start_row": 1,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1.80-4.10",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1340,
+                                    474,
+                                    1523,
+                                    474,
+                                    1523,
+                                    513,
+                                    1339,
+                                    513
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1.80-4.10"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1719,
+                            469,
+                            2022,
+                            471,
+                            2022,
+                            511,
+                            1719,
+                            509
+                        ],
+                        "end_col": 5,
+                        "start_row": 1,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "SIEMENS ATELLICA",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1727,
+                                    474,
+                                    2025,
+                                    477,
+                                    2026,
+                                    518,
+                                    1728,
+                                    516
+                                ],
+                                "score": 0.992,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "SIEMENS ATELLICA"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            101,
+                            499,
+                            201,
+                            500,
+                            200,
+                            542,
+                            101,
+                            541
+                        ],
+                        "end_col": 0,
+                        "start_row": 2,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "2 FT4",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    101,
+                                    504,
+                                    204,
+                                    505,
+                                    204,
+                                    544,
+                                    101,
+                                    545
+                                ],
+                                "score": 0.962,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "2 FT4"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            374,
+                            501,
+                            613,
+                            502,
+                            613,
+                            552,
+                            373,
+                            550
+                        ],
+                        "end_col": 1,
+                        "start_row": 2,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "游离甲状腺素",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    384,
+                                    506,
+                                    616,
+                                    506,
+                                    617,
+                                    552,
+                                    384,
+                                    552
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "游离甲状腺素"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            836,
+                            511,
+                            919,
+                            512,
+                            919,
+                            554,
+                            836,
+                            553
+                        ],
+                        "end_col": 2,
+                        "start_row": 2,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1.18",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    843,
+                                    515,
+                                    925,
+                                    516,
+                                    925,
+                                    554,
+                                    842,
+                                    553
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1.18"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1125,
+                            514,
+                            1225,
+                            515,
+                            1224,
+                            556,
+                            1125,
+                            555
+                        ],
+                        "end_col": 3,
+                        "start_row": 2,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "ng\/dl",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1125,
+                                    521,
+                                    1230,
+                                    516,
+                                    1231,
+                                    558,
+                                    1129,
+                                    563
+                                ],
+                                "score": 0.935,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "ng\/dl"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1332,
+                            516,
+                            1521,
+                            517,
+                            1521,
+                            558,
+                            1331,
+                            557
+                        ],
+                        "end_col": 4,
+                        "start_row": 2,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "0.81-1.89",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1335,
+                                    521,
+                                    1524,
+                                    521,
+                                    1524,
+                                    560,
+                                    1335,
+                                    560
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "0.81-1.89"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1719,
+                            518,
+                            2018,
+                            520,
+                            2018,
+                            561,
+                            1719,
+                            559
+                        ],
+                        "end_col": 5,
+                        "start_row": 2,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "SIEMENS ATELLICA",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1724,
+                                    522,
+                                    2026,
+                                    525,
+                                    2026,
+                                    566,
+                                    1725,
+                                    563
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "SIEMENS ATELLICA"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            93,
+                            547,
+                            182,
+                            548,
+                            182,
+                            583,
+                            93,
+                            583
+                        ],
+                        "end_col": 0,
+                        "start_row": 3,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "3 T3",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    101,
+                                    551,
+                                    185,
+                                    552,
+                                    185,
+                                    591,
+                                    102,
+                                    592
+                                ],
+                                "score": 0.948,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "3 T3"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            377,
+                            550,
+                            687,
+                            552,
+                            687,
+                            594,
+                            377,
+                            592
+                        ],
+                        "end_col": 1,
+                        "start_row": 3,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "三碘甲状腺原氨酸",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    384,
+                                    553,
+                                    692,
+                                    554,
+                                    693,
+                                    598,
+                                    383,
+                                    599
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "三碘甲状腺原氨酸"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            836,
+                            553,
+                            919,
+                            554,
+                            918,
+                            596,
+                            836,
+                            595
+                        ],
+                        "end_col": 2,
+                        "start_row": 3,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1.03",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    841,
+                                    562,
+                                    924,
+                                    563,
+                                    923,
+                                    600,
+                                    841,
+                                    601
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1.03"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1124,
+                            555,
+                            1226,
+                            556,
+                            1225,
+                            606,
+                            1123,
+                            605
+                        ],
+                        "end_col": 3,
+                        "start_row": 3,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "ng\/ml",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1125,
+                                    567,
+                                    1228,
+                                    562,
+                                    1232,
+                                    606,
+                                    1127,
+                                    609
+                                ],
+                                "score": 0.976,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "ng\/ml"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1331,
+                            559,
+                            1521,
+                            560,
+                            1521,
+                            605,
+                            1331,
+                            604
+                        ],
+                        "end_col": 4,
+                        "start_row": 3,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "0.66-1.92",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1335,
+                                    567,
+                                    1521,
+                                    567,
+                                    1521,
+                                    608,
+                                    1335,
+                                    608
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "0.66-1.92"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1720,
+                            563,
+                            2018,
+                            565,
+                            2018,
+                            608,
+                            1720,
+                            606
+                        ],
+                        "end_col": 5,
+                        "start_row": 3,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "SIEMENS ATELLICA",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1725,
+                                    569,
+                                    2023,
+                                    571,
+                                    2023,
+                                    612,
+                                    1725,
+                                    609
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "SIEMENS ATELLICA"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            94,
+                            591,
+                            181,
+                            591,
+                            181,
+                            632,
+                            94,
+                            631
+                        ],
+                        "end_col": 0,
+                        "start_row": 4,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "4 T4",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    102,
+                                    597,
+                                    185,
+                                    596,
+                                    184,
+                                    637,
+                                    102,
+                                    636
+                                ],
+                                "score": 0.97,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "4 T4"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            381,
+                            592,
+                            538,
+                            593,
+                            537,
+                            642,
+                            381,
+                            641
+                        ],
+                        "end_col": 1,
+                        "start_row": 4,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "甲状腺素",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    386,
+                                    596,
+                                    540,
+                                    600,
+                                    540,
+                                    643,
+                                    384,
+                                    641
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "甲状腺素"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            836,
+                            603,
+                            918,
+                            604,
+                            918,
+                            646,
+                            835,
+                            645
+                        ],
+                        "end_col": 2,
+                        "start_row": 4,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "8.80",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    838,
+                                    607,
+                                    923,
+                                    607,
+                                    923,
+                                    646,
+                                    838,
+                                    645
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "8.80"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1127,
+                            605,
+                            1247,
+                            606,
+                            1247,
+                            648,
+                            1127,
+                            647
+                        ],
+                        "end_col": 3,
+                        "start_row": 4,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "μg\/dl",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1134,
+                                    613,
+                                    1248,
+                                    612,
+                                    1248,
+                                    653,
+                                    1133,
+                                    652
+                                ],
+                                "score": 0.899,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "μg\/dl"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1331,
+                            606,
+                            1537,
+                            608,
+                            1537,
+                            648,
+                            1331,
+                            647
+                        ],
+                        "end_col": 4,
+                        "start_row": 4,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "4.30-12.50",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1335,
+                                    614,
+                                    1541,
+                                    614,
+                                    1541,
+                                    655,
+                                    1336,
+                                    655
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "4.30-12.50"
+                    },
+                    {
+                        "end_row": 4,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1720,
+                            609,
+                            2018,
+                            611,
+                            2017,
+                            652,
+                            1719,
+                            650
+                        ],
+                        "end_col": 5,
+                        "start_row": 4,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "SIEMENS ATELLICA",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1725,
+                                    615,
+                                    2023,
+                                    618,
+                                    2022,
+                                    660,
+                                    1724,
+                                    656
+                                ],
+                                "score": 0.995,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "SIEMENS ATELLICA"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            91,
+                            638,
+                            216,
+                            638,
+                            216,
+                            675,
+                            91,
+                            675
+                        ],
+                        "end_col": 0,
+                        "start_row": 5,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "5 TSH3",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    99,
+                                    642,
+                                    223,
+                                    644,
+                                    221,
+                                    683,
+                                    99,
+                                    681
+                                ],
+                                "score": 0.976,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "5 TSH3"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            373,
+                            641,
+                            629,
+                            642,
+                            629,
+                            684,
+                            373,
+                            683
+                        ],
+                        "end_col": 1,
+                        "start_row": 5,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "*促甲状腺激素",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    382,
+                                    643,
+                                    633,
+                                    645,
+                                    632,
+                                    691,
+                                    382,
+                                    688
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "*促甲状腺激素"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            834,
+                            644,
+                            936,
+                            644,
+                            936,
+                            686,
+                            834,
+                            686
+                        ],
+                        "end_col": 2,
+                        "start_row": 5,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1.773",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    840,
+                                    654,
+                                    941,
+                                    655,
+                                    942,
+                                    693,
+                                    840,
+                                    692
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1.773"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1124,
+                            648,
+                            1265,
+                            649,
+                            1264,
+                            695,
+                            1124,
+                            694
+                        ],
+                        "end_col": 3,
+                        "start_row": 5,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "μ IU\/mL",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1133,
+                                    656,
+                                    1268,
+                                    657,
+                                    1268,
+                                    698,
+                                    1133,
+                                    698
+                                ],
+                                "score": 0.914,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "μ IU\/mL"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1331,
+                            656,
+                            1554,
+                            657,
+                            1553,
+                            698,
+                            1330,
+                            697
+                        ],
+                        "end_col": 4,
+                        "start_row": 5,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "0.380-4.340",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1336,
+                                    661,
+                                    1560,
+                                    661,
+                                    1560,
+                                    701,
+                                    1336,
+                                    702
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "0.380-4.340"
+                    },
+                    {
+                        "end_row": 5,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1719,
+                            658,
+                            2017,
+                            660,
+                            2017,
+                            701,
+                            1719,
+                            699
+                        ],
+                        "end_col": 5,
+                        "start_row": 5,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "SIEMENS ATELLICA",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1724,
+                                    664,
+                                    2022,
+                                    667,
+                                    2022,
+                                    709,
+                                    1724,
+                                    703
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "SIEMENS ATELLICA"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            92,
+                            681,
+                            216,
+                            682,
+                            216,
+                            723,
+                            92,
+                            722
+                        ],
+                        "end_col": 0,
+                        "start_row": 6,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "6 A-Tg",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    99,
+                                    685,
+                                    221,
+                                    689,
+                                    221,
+                                    731,
+                                    96,
+                                    727
+                                ],
+                                "score": 0.992,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "6 A-Tg"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            373,
+                            683,
+                            686,
+                            685,
+                            686,
+                            735,
+                            372,
+                            732
+                        ],
+                        "end_col": 1,
+                        "start_row": 6,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "甲状腺球蛋白抗体",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    383,
+                                    688,
+                                    688,
+                                    693,
+                                    688,
+                                    737,
+                                    384,
+                                    733
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "甲状腺球蛋白抗体"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            835,
+                            693,
+                            877,
+                            694,
+                            877,
+                            736,
+                            835,
+                            736
+                        ],
+                        "end_col": 2,
+                        "start_row": 6,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "15",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    839,
+                                    700,
+                                    886,
+                                    699,
+                                    886,
+                                    737,
+                                    839,
+                                    737
+                                ],
+                                "score": 0.998,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "15"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1124,
+                            695,
+                            1223,
+                            696,
+                            1223,
+                            738,
+                            1124,
+                            737
+                        ],
+                        "end_col": 3,
+                        "start_row": 6,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "IU\/ml",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1129,
+                                    702,
+                                    1226,
+                                    701,
+                                    1226,
+                                    742,
+                                    1129,
+                                    741
+                                ],
+                                "score": 0.961,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "IU\/ml"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1330,
+                            706,
+                            1417,
+                            706,
+                            1417,
+                            739,
+                            1330,
+                            739
+                        ],
+                        "end_col": 4,
+                        "start_row": 6,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "<115",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1336,
+                                    707,
+                                    1421,
+                                    706,
+                                    1421,
+                                    747,
+                                    1335,
+                                    746
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "<115"
+                    },
+                    {
+                        "end_row": 6,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1719,
+                            708,
+                            1925,
+                            710,
+                            1925,
+                            750,
+                            1719,
+                            749
+                        ],
+                        "end_col": 5,
+                        "start_row": 6,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "Roche Cobas",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1724,
+                                    712,
+                                    1930,
+                                    712,
+                                    1930,
+                                    753,
+                                    1725,
+                                    753
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "Roche Cobas"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            91,
+                            728,
+                            240,
+                            729,
+                            240,
+                            770,
+                            91,
+                            769
+                        ],
+                        "end_col": 0,
+                        "start_row": 7,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "7 A-TPO",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    100,
+                                    732,
+                                    240,
+                                    733,
+                                    241,
+                                    774,
+                                    99,
+                                    773
+                                ],
+                                "score": 0.99,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "7 A-TPO"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            372,
+                            731,
+                            761,
+                            734,
+                            761,
+                            777,
+                            372,
+                            775
+                        ],
+                        "end_col": 1,
+                        "start_row": 7,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "甲状腺过氧化物酶抗体",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    381,
+                                    733,
+                                    763,
+                                    739,
+                                    762,
+                                    786,
+                                    381,
+                                    778
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "甲状腺过氧化物酶抗体"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            833,
+                            742,
+                            957,
+                            743,
+                            957,
+                            778,
+                            833,
+                            778
+                        ],
+                        "end_col": 2,
+                        "start_row": 7,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "<9.000",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    838,
+                                    744,
+                                    961,
+                                    747,
+                                    959,
+                                    786,
+                                    837,
+                                    784
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "<9.000"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1124,
+                            745,
+                            1223,
+                            746,
+                            1223,
+                            788,
+                            1124,
+                            787
+                        ],
+                        "end_col": 3,
+                        "start_row": 7,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "IU\/ml",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1128,
+                                    749,
+                                    1226,
+                                    748,
+                                    1225,
+                                    788,
+                                    1127,
+                                    788
+                                ],
+                                "score": 0.955,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "IU\/ml"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1330,
+                            746,
+                            1396,
+                            747,
+                            1396,
+                            789,
+                            1330,
+                            788
+                        ],
+                        "end_col": 4,
+                        "start_row": 7,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "<34",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1334,
+                                    753,
+                                    1400,
+                                    753,
+                                    1400,
+                                    791,
+                                    1334,
+                                    791
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "<34"
+                    },
+                    {
+                        "end_row": 7,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1719,
+                            751,
+                            1925,
+                            753,
+                            1925,
+                            797,
+                            1718,
+                            796
+                        ],
+                        "end_col": 5,
+                        "start_row": 7,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "Roche Cobas",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1722,
+                                    757,
+                                    1933,
+                                    762,
+                                    1930,
+                                    803,
+                                    1721,
+                                    797
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "Roche Cobas"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            91,
+                            771,
+                            182,
+                            772,
+                            182,
+                            814,
+                            90,
+                            813
+                        ],
+                        "end_col": 0,
+                        "start_row": 8,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "8 Tg",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    96,
+                                    777,
+                                    183,
+                                    781,
+                                    182,
+                                    823,
+                                    93,
+                                    820
+                                ],
+                                "score": 0.926,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "8 Tg"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            372,
+                            773,
+                            604,
+                            775,
+                            604,
+                            824,
+                            372,
+                            823
+                        ],
+                        "end_col": 1,
+                        "start_row": 8,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "甲状腺球蛋白",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    381,
+                                    778,
+                                    610,
+                                    782,
+                                    610,
+                                    828,
+                                    381,
+                                    824
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "甲状腺球蛋白"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            827,
+                            785,
+                            958,
+                            786,
+                            958,
+                            827,
+                            826,
+                            826
+                        ],
+                        "end_col": 2,
+                        "start_row": 8,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "223.00",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    833,
+                                    792,
+                                    959,
+                                    791,
+                                    959,
+                                    832,
+                                    833,
+                                    831
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "223.00"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1090,
+                            787,
+                            1223,
+                            788,
+                            1223,
+                            837,
+                            1090,
+                            837
+                        ],
+                        "end_col": 3,
+                        "start_row": 8,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "↑ng\/ml",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1098,
+                                    796,
+                                    1225,
+                                    795,
+                                    1225,
+                                    839,
+                                    1098,
+                                    838
+                                ],
+                                "score": 0.96,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "↑ng\/ml"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1330,
+                            796,
+                            1536,
+                            797,
+                            1536,
+                            839,
+                            1330,
+                            838
+                        ],
+                        "end_col": 4,
+                        "start_row": 8,
+                        "start_col": 4,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "1.40-78.00",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1335,
+                                    800,
+                                    1536,
+                                    800,
+                                    1536,
+                                    841,
+                                    1336,
+                                    841
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "1.40-78.00"
+                    },
+                    {
+                        "end_row": 8,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1718,
+                            799,
+                            1925,
+                            800,
+                            1924,
+                            842,
+                            1718,
+                            841
+                        ],
+                        "end_col": 5,
+                        "start_row": 8,
+                        "start_col": 5,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "Roche Cobas",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1722,
+                                    806,
+                                    1930,
+                                    806,
+                                    1931,
+                                    847,
+                                    1722,
+                                    847
+                                ],
+                                "score": 0.996,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "Roche Cobas"
+                    }
+                ],
+                "table_rows": 9,
+                "width_of_cols": [
+                    195,
+                    445,
+                    285,
+                    254,
+                    335,
+                    379
+                ],
+                "position": [
+                    93,
+                    398,
+                    2100,
+                    411,
+                    2098,
+                    843,
+                    90,
+                    830
+                ],
+                "lines": [],
+                "table_cols": 6
+            },
+            {
+                "height_of_rows": [],
+                "type": "plain",
+                "table_cells": [],
+                "table_rows": 0,
+                "width_of_cols": [],
+                "position": [
+                    0,
+                    829,
+                    2292,
+                    844,
+                    2292,
+                    1362,
+                    0,
+                    1347
+                ],
+                "lines": [
+                    {
+                        "angle": 0,
+                        "text": "备注:",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            82,
+                            1141,
+                            187,
+                            1145,
+                            186,
+                            1195,
+                            80,
+                            1189
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    },
+                    {
+                        "angle": 0,
+                        "text": "第1页共1页",
+                        "direction": 1,
+                        "handwritten": 0,
+                        "position": [
+                            1943,
+                            1325,
+                            2151,
+                            1329,
+                            2149,
+                            1377,
+                            1941,
+                            1373
+                        ],
+                        "score": 0.999,
+                        "type": "text"
+                    }
+                ],
+                "table_cols": 0
+            },
+            {
+                "height_of_rows": [
+                    45,
+                    47,
+                    32,
+                    11
+                ],
+                "type": "table_without_line",
+                "table_cells": [
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 1
+                        },
+                        "position": [
+                            89,
+                            1342,
+                            246,
+                            1343,
+                            246,
+                            1384,
+                            89,
+                            1383
+                        ],
+                        "end_col": 0,
+                        "start_row": 0,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "申请医生:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    94,
+                                    1346,
+                                    250,
+                                    1347,
+                                    250,
+                                    1389,
+                                    94,
+                                    1389
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "申请医生:"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 1
+                        },
+                        "position": [
+                            797,
+                            1363,
+                            952,
+                            1364,
+                            951,
+                            1405,
+                            797,
+                            1404
+                        ],
+                        "end_col": 1,
+                        "start_row": 0,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "检验者:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    797,
+                                    1362,
+                                    958,
+                                    1368,
+                                    956,
+                                    1413,
+                                    796,
+                                    1404
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "检验者:"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            994,
+                            1372,
+                            1115,
+                            1373,
+                            1114,
+                            1407,
+                            993,
+                            1407
+                        ],
+                        "end_col": 2,
+                        "start_row": 0,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "高学慧",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1009,
+                                    1371,
+                                    1121,
+                                    1372,
+                                    1121,
+                                    1414,
+                                    1009,
+                                    1413
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "高学慧"
+                    },
+                    {
+                        "end_row": 0,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 1
+                        },
+                        "position": [
+                            1546,
+                            1385,
+                            1879,
+                            1387,
+                            1879,
+                            1428,
+                            1546,
+                            1426
+                        ],
+                        "end_col": 3,
+                        "start_row": 0,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "审核者:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1553,
+                                    1385,
+                                    1720,
+                                    1391,
+                                    1718,
+                                    1434,
+                                    1551,
+                                    1429
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "刘怀成",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1768,
+                                    1393,
+                                    1884,
+                                    1396,
+                                    1882,
+                                    1439,
+                                    1766,
+                                    1436
+                                ],
+                                "score": 0.998,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "电话:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1607,
+                                    1537,
+                                    1698,
+                                    1536,
+                                    1698,
+                                    1574,
+                                    1606,
+                                    1575
+                                ],
+                                "score": 0.956,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "审核者: 刘怀成\n电话:"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            94,
+                            1396,
+                            574,
+                            1399,
+                            574,
+                            1445,
+                            94,
+                            1441
+                        ],
+                        "end_col": 0,
+                        "start_row": 1,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "魏学",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    306,
+                                    1354,
+                                    381,
+                                    1353,
+                                    382,
+                                    1394,
+                                    306,
+                                    1393
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "采样时间:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    90,
+                                    1396,
+                                    249,
+                                    1395,
+                                    249,
+                                    1439,
+                                    90,
+                                    1439
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "2022.02.08 08:30",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    303,
+                                    1405,
+                                    590,
+                                    1413,
+                                    588,
+                                    1452,
+                                    301,
+                                    1445
+                                ],
+                                "score": 0.988,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "魏学\n采样时间: 2022.02.08 08:30"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            791,
+                            1412,
+                            950,
+                            1413,
+                            950,
+                            1455,
+                            791,
+                            1454
+                        ],
+                        "end_col": 1,
+                        "start_row": 1,
+                        "start_col": 1,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "接收时间:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    796,
+                                    1413,
+                                    955,
+                                    1418,
+                                    955,
+                                    1460,
+                                    794,
+                                    1455
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "接收时间:"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1003,
+                            1417,
+                            1293,
+                            1419,
+                            1292,
+                            1462,
+                            1003,
+                            1460
+                        ],
+                        "end_col": 2,
+                        "start_row": 1,
+                        "start_col": 2,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "2022.02.08 09:05",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1003,
+                                    1421,
+                                    1299,
+                                    1429,
+                                    1297,
+                                    1470,
+                                    1002,
+                                    1460
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "实验室:内分泌组(检验科)",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1096,
+                                    1521,
+                                    1514,
+                                    1534,
+                                    1512,
+                                    1574,
+                                    1094,
+                                    1564
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "2022.02.08 09:05\n实验室:内分泌组(检验科)"
+                    },
+                    {
+                        "end_row": 1,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            1575,
+                            1436,
+                            2050,
+                            1439,
+                            2050,
+                            1484,
+                            1575,
+                            1480
+                        ],
+                        "end_col": 3,
+                        "start_row": 1,
+                        "start_col": 3,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "报告时间:",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1552,
+                                    1434,
+                                    1718,
+                                    1439,
+                                    1716,
+                                    1484,
+                                    1552,
+                                    1480
+                                ],
+                                "score": 0.999,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "2022.02.08 13:46",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1777,
+                                    1445,
+                                    2077,
+                                    1452,
+                                    2077,
+                                    1494,
+                                    1775,
+                                    1487
+                                ],
+                                "score": 0.997,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "9733\/9736",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1701,
+                                    1541,
+                                    1878,
+                                    1541,
+                                    1878,
+                                    1574,
+                                    1701,
+                                    1574
+                                ],
+                                "score": 0.913,
+                                "type": "text"
+                            },
+                            {
+                                "angle": 0,
+                                "text": "自助打印",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    1934,
+                                    1541,
+                                    2078,
+                                    1541,
+                                    2079,
+                                    1574,
+                                    1934,
+                                    1575
+                                ],
+                                "score": 0.948,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "报告时间: 2022.02.08 13:46\n9733\/9736 自助打印"
+                    },
+                    {
+                        "end_row": 2,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            85,
+                            1445,
+                            1447,
+                            1454,
+                            1446,
+                            1519,
+                            84,
+                            1510
+                        ],
+                        "end_col": 3,
+                        "start_row": 2,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "本报告仅对送检样本负责。*标记项目为北京市三甲医院\/京津冀鲁地区检验结果互认项目。",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    93,
+                                    1443,
+                                    1453,
+                                    1483,
+                                    1451,
+                                    1529,
+                                    91,
+                                    1490
+                                ],
+                                "score": 0.995,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "本报告仅对送检样本负责。*标记项目为北京市三甲医院\/京津冀鲁地区检验结果互认项目。"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 0,
+                            "bottom": 0,
+                            "left": 0,
+                            "top": 0
+                        },
+                        "position": [
+                            86,
+                            1495,
+                            856,
+                            1500,
+                            856,
+                            1555,
+                            85,
+                            1550
+                        ],
+                        "end_col": 1,
+                        "start_row": 3,
+                        "start_col": 0,
+                        "lines": [
+                            {
+                                "angle": 0,
+                                "text": "医院地址:北京市东城区帅府园一号 邮编:100730",
+                                "direction": 1,
+                                "handwritten": 0,
+                                "position": [
+                                    91,
+                                    1496,
+                                    853,
+                                    1516,
+                                    851,
+                                    1561,
+                                    89,
+                                    1541
+                                ],
+                                "score": 0.99,
+                                "type": "text"
+                            }
+                        ],
+                        "text": "医院地址:北京市东城区帅府园一号 邮编:100730"
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1,
+                            "top": 1
+                        },
+                        "position": [
+                            52,
+                            1347,
+                            52,
+                            1347,
+                            52,
+                            1347,
+                            52,
+                            1347
+                        ],
+                        "end_col": 2,
+                        "start_row": 3,
+                        "start_col": 2,
+                        "lines": [],
+                        "text": ""
+                    },
+                    {
+                        "end_row": 3,
+                        "borders": {
+                            "right": 1,
+                            "bottom": 1,
+                            "left": 1,
+                            "top": 1
+                        },
+                        "position": [
+                            52,
+                            1347,
+                            52,
+                            1347,
+                            52,
+                            1347,
+                            52,
+                            1347
+                        ],
+                        "end_col": 3,
+                        "start_row": 3,
+                        "start_col": 3,
+                        "lines": [],
+                        "text": ""
+                    }
+                ],
+                "table_rows": 4,
+                "width_of_cols": [
+                    514,
+                    199,
+                    138,
+                    418
+                ],
+                "position": [
+                    52,
+                    1347,
+                    2051,
+                    1360,
+                    2050,
+                    1563,
+                    51,
+                    1549
+                ],
+                "lines": [],
+                "table_cols": 4
+            }
+        ],
+        "width": 2293
+    },
+    "version": "v2.0.0"
+}
